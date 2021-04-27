@@ -1,0 +1,123 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+
+.pagetitle{
+
+text-align: center;
+
+}
+
+.important {
+    font-style: italic;
+}
+
+.card {
+
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+
+
+}
+#indexbody{
+
+}
+.card-img-top {
+
+}
+.card-title {
+
+}
+.card-text {
+
+}
+
+
+
+
+
+
+.Tinfo{
+
+}
+
+.mapphoto{
+    width:200px;
+    height:200px;
+
+}
+.venueP{
+    width:200px;
+    height:200px;
+}
+
+
+
+{
+
+}
+
+
+
+
+
+
+.infophoto{
+    width:140px;
+    height: 140px;
+    margin: 50px;
+
+}
+#middlePhoto {
+    align: right;
+}
+.IntroInfo{
+    margin: 0px 200px;
+}
+
+
+
+
+
+.twitterPFP {
+    width: 150px;
+    height: 150px;
+    flex-basis: 40%;
+
+}
+.container {
+
+}
+
+.person{
+float: right ;
+    padding-left: 160px;
+
+}
+.twittername{
+    text-align: center;
+}
+
+
+
+
+.discordname{
+    padding-left: 50px;
+}
+.{
+    height: 100px;
+    width: 100px;
+    margin: 0px 160px;
+}
+
+/*DEVELOPER: Sean Powers, IS117-002, Spring 2021*/
